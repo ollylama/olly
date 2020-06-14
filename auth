@@ -1,5 +1,5 @@
 https://api.instagram.com/oauth/authorize
   ?client_id=755723991829906
-  &redirect_uri=https://github.com/ollylama/olly.git
+  &redirect_uri=https://github.com/ollylama/olly/blob/auth
   &scope=user_profile,user_media
   &response_type=code
